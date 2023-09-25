@@ -9,8 +9,9 @@ toc: true
 ---
 
 # Paper Submission
-- Interested participants in the academic sessions should submit double-column extended abstract, in the range of 1-3 pages (EXCLUDING references),  for their research work using [CVIS Latex template](http://www.overleaf.com/latex/templates/cvis-latex-template/zfpwccmjjrys) or based on format instructions at [http://www.jcvis.net/](http://www.jcvis.net/).​
-- ​ All extended abstracts should be submitted through the URL of CVIS 2022 at Microsoft conference management toolkit (CMT) website: [https://cmt3.research.microsoft.com/CVIS2022](https://cmt3.research.microsoft.com/CVIS2022)
+- Interested participants in the academic sessions should submit double-column extended abstract, in the range of 1-3 pages (EXCLUDING references),  for their research work using [CVIS Latex template](<!---http://www.overleaf.com/latex/templates/cvis-latex-template/zfpwccmjjrys--->) (to be made available) or based on format instructions at [http://www.jcvis.net/](http://www.jcvis.net/).​
+- ​ All extended abstracts should be submitted through the URL of CVIS 2023 at Microsoft conference management toolkit (CMT) website: TBA.
+<!---[https://cmt3.research.microsoft.com/CVIS2022](https://cmt3.research.microsoft.com/CVIS2022)--->
 - Steps: 
   1. Create New Account (if needed). 
   2. Logout. 
@@ -41,5 +42,5 @@ include, but are not limited to:
 
 # Poster Presentation
 Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**.
-A poster template can be downloaded here: [poster template](https://docs.google.com/presentation/d/13DWwser0PpAAf2ovwkDqwRDEuJ6ERlvC/edit?usp=sharing&ouid=106340322616558895574&rtpof=true&sd=true).
+A poster template can be downloaded here: [poster template](<!---https://docs.google.com/presentation/d/13DWwser0PpAAf2ovwkDqwRDEuJ6ERlvC/edit?usp=sharing&ouid=106340322616558895574&rtpof=true&sd=true--->) (To be made available).
 
