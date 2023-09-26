@@ -8,9 +8,11 @@ header:
   actions:
 ---
 
-Registration for CVIS 2022 is free of charge.
+Registration for CVIS 2023 is free of charge.
 
- <a href="https://www.eventbrite.com/e/cvis2022-tickets-473430903577" class="btn btn--primary btn--large align-center" target="_blank" >Register Here</a>
+ <!-- <a href="https://www.eventbrite.com/e/cvis2022-tickets-473430903577" class="btn btn--primary btn--large align-center" target="_blank" >Register Here</a> -->
+
+ <a href="404.md" class="btn btn--primary btn--large align-center" target="_blank" >Registration not yet open</a>
 
 
 Please select the type of your registration and submit the registration form in the link above.
