@@ -15,6 +15,7 @@ Conference Chairs:
                               
 Organizing Committee:
 - Emily Zhixuan Zeng (Website lead)
+- Qasim Ali
 
 Technical Program Committee:
 - Nicholas		Pellegrino
