@@ -11,11 +11,11 @@ toc: true
 # Paper Submission
 - Interested participants in the academic sessions should submit double-column extended abstract, in the range of 1-3 pages (EXCLUDING references),  for their research work using [CVIS Latex template](<!---http://www.overleaf.com/latex/templates/cvis-latex-template/zfpwccmjjrys--->) (to be made available) or based on format instructions at [http://www.jcvis.net/](http://www.jcvis.net/).​
 - ​ All extended abstracts should be submitted through the URL of CVIS 2023 at Microsoft conference management toolkit (CMT) website: TBA.
-<!---[https://cmt3.research.microsoft.com/CVIS2022](https://cmt3.research.microsoft.com/CVIS2022)--->
+<!---[https://cmt3.research.microsoft.com/CVIS2023](https://cmt3.research.microsoft.com/CVIS2023)--->
 - Steps: 
   1. Create New Account (if needed). 
   2. Logout. 
-  3. Login by using the URL of CVIS 2022 at CMT. 
+  3. Login by using the URL of CVIS 2023 at CMT. 
   4. Create a new submission.
   
 ## Topics of interest
