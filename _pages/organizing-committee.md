@@ -22,4 +22,8 @@ Technical Program Committee:
 - Yuhao		Chen		
                   
 Thanks to the Past Committee Members：                         
-[https://cvis2021.weebly.com/organizing-committee.html](https://cvis2021.weebly.com/organizing-committee.html)
+[2021](https://cvis2021.weebly.com/organizing-committee.html)
+[2022](https://uwcvis.github.io/cvis2022/organizing-committee)
+
+Reviewers:
+{% include table.html data="reviewers" %}
