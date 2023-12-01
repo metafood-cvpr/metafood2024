@@ -41,11 +41,14 @@ keynotes:
         "
         Li CHENG is a professor at the Department of Electrical and Computer Engineering, University of Alberta. He is an associate editor of IEEE Transactions on Multimedia. Prior to joining University of Alberta, He worked at A*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. His current research interests include human motion analysis, mobile and robot vision, and multimedia data analytics. More details can be found at [http://www.ece.ualberta.ca/~lcheng5/](http://www.ece.ualberta.ca/~lcheng5/).
         "
-  - title: The Hospital for Sick Children
+  - title: AI for Precision Medicine - An MRI-based End-to-End Pipeline for Molecular Diagnosis of Pediatric Brain Tumours
     time:
     url:
     image: https://medical-imaging.utoronto.ca/sites/default/files/styles/square_1_1_900/public/assets/faculty/image/Khalvati%2C%20F.webp?itok=i5EE6z16
     abstract: 
+      "
+      Pediatric low-grade gliomas (pLGG) are the most common brain tumours in children. With surgical excision as the main treatment, and chemotherapy and radiation as additional treatment options, the 10-year progression-free survival is less than 50% and affected children commonly suffer multiple recurrences requiring multi-modal therapy leading to considerable morbidity. Recent advances in identifying genetic markers for different molecular subtypes of pLGG have had a significant impact on patient outcome with improved prognosis and individualized treatment strategies. However, biopsies are invasive, and cannot capture the entirely of tumour. In this talk, I will present MRI-based AI solutions combined with healthcare informatics, which we have developed for the molecular diagnosis of pLGG using the latest MRI prior to surgery or biopsy. I will also briefly talk about the specific challenges of AI models for pLGG (e.g., confidence, and lack of training data), and possible solutions.
+      "
     author:
       name: Farzad Khalvati, MASc, PhD
       description: 
@@ -67,9 +70,10 @@ keynotes:
         "
       bio:
         "
-        Research Interests: AI-based Cancer Diagnosis and Prognosis, AI for Precision Medicine, AI for Accessible Healthcare, Human Centered AI in Radiology, Machine Learning for Medical Imaging, Radiomics
-
-        Dr. Khalvati’s research program is focussed on the design and development of Artificial Intelligence (AI) solutions for Medical Imaging and Precision Medicine. He leads the design, discovery, and validation of AI-based quantitative imaging biomarkers (radiomics) for diagnosis and prognosis of different cancer sites (e.g., brain) with the goal of delivering precision medicine and compassionate healthcare to patients. The motivation for his research is that as a non-invasive alternative to biopsy for studying cancer, AI-powered Medical Imaging can capture the entirety of cancer site with distinct advantage of assessing tissue heterogeneity. The hypothesis is that AI-driven and radiomic biomarkers have the potential to uncover latent diagnostic and prognostic information encoded in medical images which may replace or complement biopsy-driven biomarkers such as pathology and genomics signatures.     One aspect of Dr. Khalvati’s research is to design and implement joint Radiologist-AI decision making solutions, which will significantly advance our understanding of how AI algorithms findings can be translated from mere information to practical meaning, and how that meaning can be properly communicated to clinicians in order to significantly improve the accuracy of final diagnoses, prognoses, and treatment planning with a direct impact on the quality of care given to patients.
+        Dr. Farzad Khalvati received his PhD in Electrical and Computer Engineering from the University of Waterloo, Ontario, Canada and currently, he is a Scientist and Endowed Chair in Medical Imaging and Artificial Intelligence at The Hospital for Sick Children (SickKids) and the University of Toronto (UofT). He is an Associate Professor in the Department of Medical Imaging and Institute of Medical Science at UofT, with cross appointments to the Departments of Computer Science, and Mechanical and Industrial Engineering. He is also a Faculty Affiliate at the Vector Institute. Dr. Khalvati is the director of Intelligent Medical Informatics Computing Systems Lab [(IMICSLab.com)](https://www.IMICSLab.com) at SickKids where he leads the design, development, validation, and deployment of AI tools for early diagnosis and prognosis, and individualized treatment planning of different diseases including cancer, using multi-modal data such as medical imaging and healthcare informatics. Interpretable, human-centered, and optimized AI for medicine, and AI for equitable access to healthcare are other aspects of his research program. 
+        
+        
+        Dr. Khalvati has published ~100 peer-reviewed publications in scientific journals and conference proceedings with additional 52 peer-reviewed scientific abstracts presented in different international conferences. He has received over $3.6M in peer-reviewed research funding ($2.5M as PI and Co-PI) from different Canadian grant agencies including Natural Sciences and Engineering Research Council of Canada (NSERC), Canadian Institutes of Health Research (CIHR), New Frontiers in Research Fund (NFRF), Canadian Cancer Society, and Brain Canada Foundation. As the primary supervisor, Dr. Khalvati has supervised over 65 trainees at different levels and his students have received $246K in scholarships and awards.
         "
 ---
 
