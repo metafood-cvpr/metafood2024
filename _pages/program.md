@@ -12,7 +12,7 @@ toc: true
 # Technical Program
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://cvis2022.github.io/assets/schedule.pdf"> 
+viewer?embedded=true&url=https://uwcvis.github.io/cvis2023/assets/schedule.pdf"> 
 
 <br>
 
