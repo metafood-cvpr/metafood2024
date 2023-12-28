@@ -1,4 +1,4 @@
-# CVIS2022 conference website
+# MetaFood2024 Workshop website
 
 See jekyll installation instructions at [jekyll docs](https://jekyllrb.com/docs/)
 
